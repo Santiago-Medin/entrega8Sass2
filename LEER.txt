@@ -1,0 +1,3 @@
+Agregue titulos en todas las paginas. 
+Agregue en "contactos" el map-get, el mixin y la extesion de la clase.
+En todas las paginas agregue un mini parrafo (o descripcion) con palabras clave para la busqueda de google.
